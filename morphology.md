@@ -16,7 +16,7 @@ o-a o-e o-i o-o o-u
 u-a u-e u-i u-o u-u
 ```
 
-- **C** represents any one consonant, that is, one in `bdfgjklmnp&#x448;rstvz`. Syllabic `l`, `m`, `n` and `r` always count as consonants for the purposes of this document.
+- **C** represents any one consonant, that is, one in <code>bdfgjklmnp&#x448;rstvz</code>. Syllabic `l`, `m`, `n` and `r` always count as consonants for the purposes of this document.
 
 - **CC** represents a consonant cluster. In brief, any consonant pair is permissible as a consonant cluster unless it either
   - contains two identical letters, or
