@@ -21,3 +21,18 @@ u-a u-e u-i u-o u-u
 - **CC** represents a consonant cluster. In brief, any consonant pair is permissible as a consonant cluster unless it either
   - contains two identical letters, or
   - contains both a voiced (excluding `l`, `m`, `n` and `r`) and an unvoiced consonant.
+
+There are three basic parts of speech, called [???](#structure-words), the structure words corresponding to English `and`, `if`, `the`, `to`; ???, the content words corresponding to `come`, `red`, `doctor`, `freely`; and ???, the proper names corresponding to `James`, `Afghanistan` and `Pope John Paul II`.
+
+## Structure words
+
+The first group of words are ???, the structure words.
+
+Standard ??? occur in four forms defined by their word structure.
+
+```
+V      a e i o u
+CV     ba ce di fo gu
+VV     au ei i-a o-u u-e
+CVV    ki-a pei mi-o coi cu-u
+```
