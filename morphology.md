@@ -32,7 +32,7 @@ Standard ??? occur in four forms defined by their word structure.
 
 ```
 V      a e i o u
-CV     ba ce di fo gu
+CV     ba ke di fo gu
 VV     au ei i-a o-u u-e
-CVV    ki-a pei mi-o coi cu-u
+CVV    ki-a pei mi-o koi ku-u
 ```
