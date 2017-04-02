@@ -32,7 +32,11 @@ Standard snene occur in four forms defined by their word structure.
 
 ```
 V      a e i o u
-CV     ba ke di fo gu
+CV     ba de fi go ju
 VV     au ei i-a o-u u-e
 CVV    ki-a pei mi-o koi ku-u
 ```
+
+A word consisting of three or more vowels in a row, or a single consonant followed by three or more vowels, is of snene form too, but is deemed experimental. Examples of experimental snene include `ka-e-i`, `sei-o` and `bi-o-u`.
+
+Experimental words will not be assigned any standard meaning or usage to them by the language designers, and words and usages coined by speakers of the language will not appear in official dictionaries for the indefinite future.
