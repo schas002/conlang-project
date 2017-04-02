@@ -22,13 +22,13 @@ u-a u-e u-i u-o u-u
   - contains two identical letters, or
   - contains both a voiced (excluding `l`, `m`, `n` and `r`) and an unvoiced consonant.
 
-There are three basic parts of speech, called [???](#structure-words), the structure words corresponding to English `and`, `if`, `the`, `to`; ???, the content words corresponding to `come`, `red`, `doctor`, `freely`; and ???, the proper names corresponding to `James`, `Afghanistan` and `Pope John Paul II`.
+There are three basic parts of speech, called [Snene](#snene), the structure words corresponding to English `and`, `if`, `the`, `to`; ???, the content words corresponding to `come`, `red`, `doctor`, `freely`; and ???, the proper names corresponding to `James`, `Afghanistan` and `Pope John Paul II`.
 
-## Structure words
+## Snene
 
-The first group of words are ???, the structure words.
+The first group of words are Snene, the structure words.
 
-Standard ??? occur in four forms defined by their word structure.
+Standard snene occur in four forms defined by their word structure.
 
 ```
 V      a e i o u
