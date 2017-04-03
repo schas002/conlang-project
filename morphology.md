@@ -22,7 +22,7 @@ u-a u-e u-i u-o u-u
   - contains two identical letters, or
   - contains both a voiced (excluding `l`, `m`, `n` and `r`) and an unvoiced consonant.
 
-There are three basic parts of speech, called [Snene](#snene), the structure words corresponding to English `and`, `if`, `the`, `to`; ???, the content words corresponding to `come`, `red`, `doctor`, `freely`; and ???, the proper names corresponding to `James`, `Afghanistan` and `Pope John Paul II`.
+There are three basic parts of speech, called [Snene](#snene), the structure words corresponding to English `and`, `if`, `the`, `to`; [???](#predicate-words), the predicate words corresponding to `come`, `red`, `doctor`, `freely`; and ???, the proper names corresponding to `James`, `Afghanistan` and `Pope John Paul II`.
 
 ## Snene
 
@@ -31,12 +31,20 @@ The first group of words are Snene, the structure words.
 Standard snene occur in four forms defined by their word structure.
 
 ```
-V      a e i o u
-CV     ba de fi go ju
-VV     au ei i-a o-u u-e
-CVV    ki-a pei mi-o koi ku-u
+V    a e i o u
+CV   ba de fi go ju
+VV   au ei i-a o-u u-e
+CVV  ki-a pei mi-o koi ku-u
 ```
 
 A word consisting of three or more vowels in a row, or a single consonant followed by three or more vowels, is of snene form too, but is deemed experimental. Examples of experimental snene include `ka-e-i`, `sei-o` and `bi-o-u`.
 
 Experimental words will not be assigned any standard meaning or usage to them by the language designers, and words and usages coined by speakers of the language will not appear in official dictionaries for the indefinite future.
+
+## Predicate words
+
+Predicate words, called ???, are the heart of this language. They carry most of the semantic information. They represent *all of* nouns, verbs, adjectives, adverbs, et cetera *in a single part of speech*.
+
+Every ??? has at least two vowels and two consonants, implying at least two syllables. The stress is always at the second-to-last syllable.
+
+??? are organised in subtypes. Currently only one subtype is devised, the [rootword](rootwords.md).
